@@ -18,7 +18,7 @@ Before starting, you should have a basic knowledge of mathematics, programming l
 ### 🎲 Installing Anaconda
 Follow the steps [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi2j4jL6OL2AhXSD7kGHRZUDVUQFnoECA4QAQ&url=https%3A%2F%2Fdocs.anaconda.com%2Fanaconda%2Finstall%2Findex.html&usg=AOvVaw24D32JKJYK504YtyRlWs5G)
   
-### Notebooks
+### 📖 Notebooks
 
 - [ ] Python - Crash Course
 - [ ] Numpy
@@ -41,7 +41,7 @@ Follow the steps [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=w
 - [ ] Spark with Python
   
 
-### Authors
+### 👥 Authors
 ---
 <img style="border-radius: 50%;" src="232afa7a-b236-425d-88a1-af394782afbd.png" width="100px;" alt=""/>
 
